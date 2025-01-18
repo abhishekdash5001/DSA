@@ -1,0 +1,10 @@
+Access---> O(1)T  O(1)s;
+SetValue at index ----> O(1)T O(1)s;
+Trabverse Search------>  O(n)T  O(1)s;
+copy ---> O(n)T O(n)s
+insert at beginning -----> O(n)T O(1)s;
+insert at end ----->  O(1)T O(1)s;
+somewher in betwenn ----->O(n)T   O(1)s;
+remove from the beginning -----> O(n)T O(1)s
+remove from the end ----> O(1)T O(1)s;
+remove somewhere in between ---->  O(n)T O(1)s
